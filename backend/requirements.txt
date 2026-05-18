@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic-ai
+groq
+google-genai
+supabase
+python-dotenv
+cohere
+sentence-transformers

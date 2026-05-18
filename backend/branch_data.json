@@ -1,0 +1,314 @@
+{
+  "CSE": {
+    "full_name": "Computer Science & Engineering",
+    "code": "CSE",
+    "stream": "MPC",
+    "what_youll_study": "You will learn to build software, apps, websites, and intelligent systems. Think of every app on your phone — Instagram, Swiggy, ChatGPT — the people who built those studied CSE. You will learn programming languages (Python, Java, C++), data structures, algorithms, databases, operating systems, and software engineering.",
+    "career_paths": [
+      {"role": "Software Developer", "salary_range": "4-8 LPA (fresher)", "companies": "TCS, Infosys, Wipro, Cognizant"},
+      {"role": "Full Stack Developer", "salary_range": "6-15 LPA", "companies": "Startups, Zoho, Freshworks"},
+      {"role": "AI/ML Engineer", "salary_range": "8-25 LPA", "companies": "Google, Microsoft, Amazon"},
+      {"role": "DevOps / Cloud Engineer", "salary_range": "6-18 LPA", "companies": "AWS, Azure, GCP partners"}
+    ],
+    "pros": [
+      "Highest placement rates across all branches",
+      "Remote work and freelancing opportunities are massive",
+      "Startup-friendly — you can build products with just a laptop",
+      "Salary growth is the fastest among all engineering branches"
+    ],
+    "cons": [
+      "Extremely competitive — everyone wants CSE, so cutoffs are very high",
+      "Requires constant self-learning even after college",
+      "At lower-tier colleges, placements can be very average",
+      "Oversaturated at entry level — standing out requires real skills, not just a degree"
+    ],
+    "best_for": "You enjoy solving logical puzzles, love building things from scratch, are comfortable sitting at a computer for hours, and are excited about technology shaping the future.",
+    "industry_trend": "RISING STRONGLY — AI, cloud computing, and cybersecurity are creating unprecedented demand. Even non-tech companies now hire CSE graduates."
+  },
+  "ECE": {
+    "full_name": "Electronics & Communication Engineering",
+    "code": "ECE",
+    "stream": "MPC",
+    "what_youll_study": "You will learn how electronic devices work — from your smartphone's circuits to satellite communication systems. Core subjects include analog and digital electronics, signal processing, VLSI design, embedded systems, and communication networks. Think of it as the bridge between hardware and software.",
+    "career_paths": [
+      {"role": "Embedded Systems Engineer", "salary_range": "4-8 LPA", "companies": "Qualcomm, Texas Instruments, Samsung"},
+      {"role": "VLSI Design Engineer", "salary_range": "6-15 LPA", "companies": "Intel, AMD, Synopsys, Cadence"},
+      {"role": "Telecom Engineer", "salary_range": "4-10 LPA", "companies": "Jio, Airtel, Nokia"},
+      {"role": "Software Developer (Yes!)", "salary_range": "4-12 LPA", "companies": "TCS, Infosys — ECE students are eligible for IT roles too"}
+    ],
+    "pros": [
+      "Versatile — you can work in both hardware AND software industries",
+      "Core companies (Qualcomm, Intel) offer very stable, well-paying jobs",
+      "VLSI and chip design are booming globally due to semiconductor demand",
+      "You are eligible for almost all IT/software jobs too"
+    ],
+    "cons": [
+      "Core ECE jobs are fewer in Hyderabad compared to Bangalore or Chennai",
+      "Hardware labs can be expensive at lower-tier colleges",
+      "If you only want software jobs, CSE gives you a more direct path",
+      "Curriculum can feel heavy with physics-based subjects"
+    ],
+    "best_for": "You are curious about how gadgets work inside, enjoy both hardware tinkering and coding, and like the idea of working on chips, IoT devices, or telecom systems.",
+    "industry_trend": "RISING — India's semiconductor push (Micron, Tata Semiconductor) is creating huge demand for VLSI and embedded engineers. 5G rollout needs telecom experts."
+  },
+  "EEE": {
+    "full_name": "Electrical & Electronics Engineering",
+    "code": "EEE",
+    "stream": "MPC",
+    "what_youll_study": "You will learn about power generation, electrical machines, power electronics, control systems, and renewable energy. Every power plant, electric vehicle, and solar panel system needs EEE engineers. It is the backbone of modern infrastructure.",
+    "career_paths": [
+      {"role": "Power Systems Engineer", "salary_range": "4-8 LPA", "companies": "NTPC, BHEL, Tata Power"},
+      {"role": "Electrical Design Engineer", "salary_range": "4-10 LPA", "companies": "L&T, Siemens, ABB"},
+      {"role": "Renewable Energy Engineer", "salary_range": "5-12 LPA", "companies": "Adani Green, Suzlon, Tata Solar"},
+      {"role": "Software Developer", "salary_range": "4-10 LPA", "companies": "IT companies accept EEE graduates too"}
+    ],
+    "pros": [
+      "Government job opportunities are strong (NTPC, BHEL, State Electricity Boards)",
+      "Electric vehicles and renewable energy are massive growth sectors",
+      "Stable career — electricity demand never goes down",
+      "Good scope for PSU (Public Sector Undertaking) exams like GATE"
+    ],
+    "cons": [
+      "Private sector core jobs pay less compared to CSE/IT initially",
+      "Many students end up in IT jobs anyway — could have taken CSE directly",
+      "Fieldwork can be physically demanding",
+      "Fewer startups in this domain compared to software"
+    ],
+    "best_for": "You are fascinated by electricity, motors, power grids, and want a stable career — possibly in government or large corporations. You see yourself working on electric vehicles or solar farms.",
+    "industry_trend": "RISING — Electric vehicles (EVs), solar energy, and smart grids are driving massive demand. India's push for renewable energy by 2030 makes this a strategic bet."
+  },
+  "MECH": {
+    "full_name": "Mechanical Engineering",
+    "code": "MECH",
+    "stream": "MPC",
+    "what_youll_study": "You will learn to design, analyze, and manufacture machines and mechanical systems. From car engines to aircraft wings to factory robots — mechanical engineers make physical things work. Core subjects include thermodynamics, fluid mechanics, manufacturing processes, and CAD/CAM.",
+    "career_paths": [
+      {"role": "Design Engineer", "salary_range": "3.5-7 LPA", "companies": "Mahindra, Tata Motors, L&T"},
+      {"role": "Manufacturing Engineer", "salary_range": "3-6 LPA", "companies": "Hyundai, Maruti, Ashok Leyland"},
+      {"role": "HVAC Engineer", "salary_range": "3.5-8 LPA", "companies": "Daikin, Blue Star, Voltas"},
+      {"role": "Product Manager / Software (with upskilling)", "salary_range": "6-15 LPA", "companies": "Many MECH grads transition to IT"}
+    ],
+    "pros": [
+      "The most universal engineering degree — applicable everywhere",
+      "Strong government job eligibility (Railways, Defense, DRDO, ISRO)",
+      "Excellent for GATE and PSU exam preparation",
+      "Manufacturing, automotive, and aerospace industries always need MECH engineers"
+    ],
+    "cons": [
+      "Starting salaries in core jobs are lower than CSE",
+      "Many graduates struggle to find core MECH jobs and switch to IT",
+      "Physical/factory jobs are less glamorous than software roles",
+      "Industry is slowly automating — fewer traditional roles"
+    ],
+    "best_for": "You love machines, cars, how engines work, and enjoy building physical things with your hands. You might be interested in robotics, 3D printing, or aerospace.",
+    "industry_trend": "STABLE with pockets of growth — Robotics, EV manufacturing, and defense manufacturing (Make in India) are growth areas. Traditional manufacturing is flat."
+  },
+  "CIVIL": {
+    "full_name": "Civil Engineering",
+    "code": "CIVIL",
+    "stream": "MPC",
+    "what_youll_study": "You will learn to design and build the physical infrastructure of the world — buildings, bridges, roads, dams, water systems, and airports. Core subjects include structural engineering, geotechnical engineering, surveying, and environmental engineering.",
+    "career_paths": [
+      {"role": "Structural Engineer", "salary_range": "3-6 LPA", "companies": "L&T Construction, Shapoorji Pallonji"},
+      {"role": "Site Engineer", "salary_range": "2.5-5 LPA", "companies": "Construction companies, Real estate developers"},
+      {"role": "Government Engineer", "salary_range": "5-8 LPA + benefits", "companies": "PWD, NHAI, Municipal Corporations"},
+      {"role": "Urban Planner", "salary_range": "4-10 LPA", "companies": "Smart City projects, Consulting firms"}
+    ],
+    "pros": [
+      "Highest number of government job vacancies among all branches",
+      "India's infrastructure boom (highways, metro, smart cities) creates demand",
+      "Very rewarding — you literally build things people use every day",
+      "Excellent for UPSC, GATE, and state engineering service exams"
+    ],
+    "cons": [
+      "Private sector salaries are among the lowest in engineering",
+      "Fieldwork is physically demanding — sun, rain, remote sites",
+      "Job locations are often far from cities",
+      "Placements at college are typically low compared to CSE/ECE"
+    ],
+    "best_for": "You are interested in construction, architecture, urban planning, and government service. You don't mind fieldwork and find satisfaction in building real structures.",
+    "industry_trend": "STABLE — India's infrastructure spending is at all-time highs (Bharatmala, Sagarmala, Smart Cities). Government jobs remain strong."
+  },
+  "IT": {
+    "full_name": "Information Technology",
+    "code": "IT",
+    "stream": "MPC",
+    "what_youll_study": "Very similar to CSE but with a slightly stronger focus on networking, databases, web technologies, and information systems. In practice, CSE and IT graduates compete for the same software jobs. The curriculum overlap is about 80%.",
+    "career_paths": [
+      {"role": "Software Developer", "salary_range": "4-8 LPA", "companies": "Same companies as CSE"},
+      {"role": "Network Engineer", "salary_range": "3.5-7 LPA", "companies": "Cisco, Juniper, IT services"},
+      {"role": "Database Administrator", "salary_range": "4-10 LPA", "companies": "Oracle, Microsoft, enterprises"},
+      {"role": "Web Developer", "salary_range": "3-8 LPA", "companies": "Startups, agencies, product companies"}
+    ],
+    "pros": [
+      "Almost identical job opportunities as CSE",
+      "Cutoff ranks are slightly more relaxed — easier to get into good colleges",
+      "Same placement companies visit for both CSE and IT",
+      "Strong foundation in networking and systems"
+    ],
+    "cons": [
+      "Some elite companies explicitly filter for 'CSE only' (rare but it happens)",
+      "Perceived as 'CSE lite' by some — psychological, not practical",
+      "Fewer AI/ML electives compared to CSE in some colleges",
+      "Brand perception is slightly lower even though skills are the same"
+    ],
+    "best_for": "You want a software career but couldn't get CSE at your desired college. IT is a smart strategic choice — same career, slightly easier entry.",
+    "industry_trend": "IDENTICAL TO CSE — Companies care about your skills, not whether your degree says CSE or IT."
+  },
+  "AI_ML": {
+    "full_name": "Computer Science & Engineering (AI & ML)",
+    "code": "CSM",
+    "stream": "MPC",
+    "what_youll_study": "A specialized version of CSE focused on Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Data Science. You still learn core programming and algorithms, but with additional focus on training AI models, working with large datasets, and deploying intelligent systems.",
+    "career_paths": [
+      {"role": "AI/ML Engineer", "salary_range": "6-15 LPA", "companies": "Google, Microsoft, Amazon, startups"},
+      {"role": "Data Scientist", "salary_range": "6-18 LPA", "companies": "Analytics firms, product companies"},
+      {"role": "Software Developer", "salary_range": "4-10 LPA", "companies": "Same as CSE — you qualify for everything"},
+      {"role": "Research Scientist", "salary_range": "10-30 LPA", "companies": "Google DeepMind, OpenAI, IIIT Hyderabad"}
+    ],
+    "pros": [
+      "Hottest specialization in engineering right now",
+      "Salary premiums for AI skills are significant",
+      "You qualify for all CSE jobs PLUS specialized AI roles",
+      "Strong research community in Hyderabad (IIITH, ISB, Microsoft Research)"
+    ],
+    "cons": [
+      "Brand new branch at most colleges — faculty quality may be unproven",
+      "Some colleges slapped the AI&ML label on old CSE curriculum with minimal changes",
+      "Higher cutoffs than regular CSE at the same college",
+      "The field evolves so fast that college curriculum may lag behind industry"
+    ],
+    "best_for": "You are specifically excited about AI, ChatGPT-like systems, self-driving cars, and data. You are willing to do extra self-study because the field moves faster than any curriculum.",
+    "industry_trend": "EXPLODING — AI is the single fastest-growing technology sector globally. But be careful: choose colleges that actually invested in AI faculty, not just the label."
+  },
+  "DS": {
+    "full_name": "Computer Science & Engineering (Data Science)",
+    "code": "CSD",
+    "stream": "MPC",
+    "what_youll_study": "A CSE specialization focused on extracting insights from large datasets. You will learn statistics, probability, data visualization, machine learning, big data tools (Hadoop, Spark), and business analytics alongside core CSE subjects.",
+    "career_paths": [
+      {"role": "Data Analyst", "salary_range": "4-8 LPA", "companies": "Deloitte, EY, Mu Sigma"},
+      {"role": "Data Engineer", "salary_range": "5-12 LPA", "companies": "Amazon, Flipkart, tech companies"},
+      {"role": "Business Intelligence Analyst", "salary_range": "5-10 LPA", "companies": "Banks, consulting firms"},
+      {"role": "Software Developer", "salary_range": "4-10 LPA", "companies": "All IT companies"}
+    ],
+    "pros": [
+      "Data is the new oil — every industry needs data professionals",
+      "Combines coding with business thinking — versatile career",
+      "You qualify for all CSE jobs plus analytics roles",
+      "Good for people who enjoy math and statistics"
+    ],
+    "cons": [
+      "Newer branch — same faculty quality concerns as AI&ML",
+      "Can overlap significantly with regular CSE + self-study",
+      "Entry-level data analyst roles can be routine and less creative",
+      "Some colleges treat it as repackaged CSE"
+    ],
+    "best_for": "You enjoy working with numbers, finding patterns, and telling stories with data. You like both coding and statistical analysis.",
+    "industry_trend": "RISING — Every company from banks to hospitals to e-commerce needs data professionals. Strong and steady demand."
+  },
+  "CYBER": {
+    "full_name": "Computer Science & Engineering (Cyber Security)",
+    "code": "CSC",
+    "stream": "MPC",
+    "what_youll_study": "A CSE specialization focused on protecting systems, networks, and data from attacks. You will learn cryptography, network security, ethical hacking, digital forensics, and secure software development alongside core CSE subjects.",
+    "career_paths": [
+      {"role": "Security Analyst", "salary_range": "4-8 LPA", "companies": "Wipro, Infosys, TCS security divisions"},
+      {"role": "Ethical Hacker / Pen Tester", "salary_range": "5-15 LPA", "companies": "Security firms, Bug bounty platforms"},
+      {"role": "Security Architect", "salary_range": "10-25 LPA (experienced)", "companies": "Banks, defense, cloud providers"},
+      {"role": "Software Developer", "salary_range": "4-10 LPA", "companies": "All IT companies"}
+    ],
+    "pros": [
+      "Cybersecurity talent shortage is massive globally",
+      "High-paying niche — experienced security experts are rare and expensive",
+      "Exciting work — ethical hacking, threat hunting, incident response",
+      "Government and defense sectors actively recruit"
+    ],
+    "cons": [
+      "Very new branch — most colleges lack specialized cyber labs",
+      "Entry-level jobs can be monitoring-heavy and repetitive",
+      "Certifications (CEH, CISSP) matter more than the degree in this field",
+      "Narrower than regular CSE if you decide cybersecurity isn't for you"
+    ],
+    "best_for": "You are fascinated by hacking (the ethical kind), enjoy finding vulnerabilities, and want a career where you protect organizations from cyber attacks.",
+    "industry_trend": "EXPLODING — Cyber attacks are increasing exponentially. Companies, banks, and governments are desperately hiring. Salary growth is among the highest."
+  },
+  "CHEM": {
+    "full_name": "Chemical Engineering",
+    "code": "CHEM",
+    "stream": "MPC",
+    "what_youll_study": "You will learn to design and operate chemical processes — refineries, pharmaceutical plants, food processing, water treatment, and material manufacturing. Core subjects include thermodynamics, reaction engineering, process control, and mass transfer.",
+    "career_paths": [
+      {"role": "Process Engineer", "salary_range": "4-8 LPA", "companies": "Reliance, IOCL, HPCL, BPCL"},
+      {"role": "Quality Control Engineer", "salary_range": "3-6 LPA", "companies": "Pharma companies, FMCG"},
+      {"role": "R&D Engineer", "salary_range": "4-10 LPA", "companies": "Dr. Reddy's, Hetero, Aurobindo"},
+      {"role": "PSU Officer", "salary_range": "6-10 LPA + benefits", "companies": "ONGC, GAIL, IOCL via GATE"}
+    ],
+    "pros": [
+      "Hyderabad is India's pharma capital — strong local job market",
+      "PSU jobs through GATE are well-paying and stable",
+      "Renewable energy, battery technology, and materials science are growing",
+      "Niche but stable career path"
+    ],
+    "cons": [
+      "Private sector placements are significantly lower than CSE",
+      "Plant/factory jobs can involve shift work and hazardous environments",
+      "Limited startup ecosystem compared to IT",
+      "Fewer campus placements at most colleges"
+    ],
+    "best_for": "You enjoy chemistry, want to work in refineries, pharma, or manufacturing, and are open to GATE-based PSU careers.",
+    "industry_trend": "STABLE — Pharma and petroleum remain steady. Battery technology and green chemistry are emerging growth areas."
+  },
+  "BIOTECH": {
+    "full_name": "Biotechnology",
+    "code": "BT",
+    "stream": "BIPC",
+    "what_youll_study": "You will learn to use biological systems for industrial, medical, and agricultural applications. Core subjects include microbiology, genetic engineering, bioinformatics, and bioprocess engineering. This is where biology meets engineering.",
+    "career_paths": [
+      {"role": "Research Associate", "salary_range": "3-6 LPA", "companies": "Biocon, Bharat Biotech, Shantha Biotech"},
+      {"role": "Quality Analyst (Pharma)", "salary_range": "2.5-5 LPA", "companies": "Dr. Reddy's, Hetero, Laurus Labs"},
+      {"role": "Bioinformatics Analyst", "salary_range": "4-8 LPA", "companies": "Research institutes, biotech startups"},
+      {"role": "Higher Studies (M.Tech / PhD)", "salary_range": "Stipend-based", "companies": "IITs, IISc, foreign universities"}
+    ],
+    "pros": [
+      "Hyderabad is India's biotech hub — Genome Valley is nearby",
+      "COVID proved how critical biotech is for the world",
+      "Strong research opportunities if you want a PhD",
+      "Emerging fields like gene therapy and personalized medicine"
+    ],
+    "cons": [
+      "B.Tech alone often insufficient — M.Tech/PhD usually needed for good roles",
+      "Starting salaries are among the lowest in engineering",
+      "Campus placements are very limited at most colleges",
+      "Industry is research-heavy — not for people who want quick corporate jobs"
+    ],
+    "best_for": "You are passionate about biology, genetics, and medical research. You are willing to pursue higher studies for a rewarding long-term career in biotech or pharma R&D.",
+    "industry_trend": "RISING SLOWLY — Biotech is growing but slowly in India. Global demand is high. Best returns come with higher education."
+  },
+  "PHARMA": {
+    "full_name": "Bachelor of Pharmacy (B.Pharm)",
+    "code": "PHRM",
+    "stream": "BIPC",
+    "what_youll_study": "You will learn pharmaceutical sciences — drug formulation, pharmacology, medicinal chemistry, and pharmaceutical analysis. This is NOT engineering — it is a professional degree focused on medicines and healthcare.",
+    "career_paths": [
+      {"role": "Pharmacist", "salary_range": "2.5-4 LPA", "companies": "Apollo, Medplus, hospital pharmacies"},
+      {"role": "Medical Representative", "salary_range": "3-6 LPA", "companies": "Sun Pharma, Cipla, Abbott"},
+      {"role": "Drug Regulatory Affairs", "salary_range": "4-8 LPA", "companies": "Pharma companies, FDA-related"},
+      {"role": "R&D Scientist (with M.Pharm)", "salary_range": "4-10 LPA", "companies": "Dr. Reddy's, Aurobindo, Hetero"}
+    ],
+    "pros": [
+      "Hyderabad is the pharma manufacturing capital of India",
+      "Stable demand — people always need medicines",
+      "Can open your own pharmacy with proper license",
+      "M.Pharm + PhD opens doors to high-paying R&D roles"
+    ],
+    "cons": [
+      "B.Pharm alone has very limited career growth",
+      "Starting salaries are low",
+      "Medical representative roles involve heavy fieldwork and targets",
+      "Not treated as 'engineering' — different career trajectory"
+    ],
+    "best_for": "You are interested in medicines, healthcare, and potentially running your own pharmacy business. You see yourself in the pharma industry long-term.",
+    "industry_trend": "STABLE — India is the pharmacy of the world. Consistent demand but salary growth is slower compared to IT."
+  }
+}
