@@ -53,9 +53,15 @@ if not SUPABASE_URL or not SUPABASE_KEY:
     raise ValueError("Supabase URL or Key is missing in .env")
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
-# Initialize Embedding Model for RAG (Loaded once at startup)
-print("Loading Local Embedding Model...")
-embedder = SentenceTransformer('all-MiniLM-L6-v2')
+# We will initialize this only when needed to prevent Render from timing out on startup
+embedder = None
+
+def get_embedder():
+    global embedder
+    if embedder is None:
+        print("Loading Local Embedding Model for the first time...")
+        embedder = SentenceTransformer('all-MiniLM-L6-v2')
+    return embedder
 
 # Initialize Cohere for Reranking
 print("Initializing Cohere Reranker...")
@@ -206,7 +212,8 @@ def ask_rulebook(req: AskRulebookRequest):
     Embeds the user's query, searches Supabase pgvector, and passes context to Gemini.
     """
     # 1. Generate query embedding locally ($0 cost)
-    query_embedding = embedder.encode(req.query).tolist()
+    current_embedder = get_embedder()
+    query_embedding = current_embedder.encode(req.query).tolist()
     
     # 2. Search Supabase Vector DB (Fetch 15 broad results first)
     try:
@@ -562,4 +569,8 @@ def guided_recommendation(req: GuidedRecommendationRequest):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+    import os
+    
+    # Render assigns a PORT via environment variable. Fallback to 8000 for local dev.
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run("main:app", host="0.0.0.0", port=port)
